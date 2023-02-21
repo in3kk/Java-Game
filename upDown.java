@@ -1,7 +1,7 @@
 package game;
 
 import java.util.Scanner;
-
+//hi
 public class upDown {
 	public static void main(String[] args) {
 		
